@@ -1,0 +1,15 @@
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\bin\Debug\net6.0\Dastan pink booklet task 4.exe
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\bin\Debug\net6.0\Dastan pink booklet task 4.deps.json
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\bin\Debug\net6.0\Dastan pink booklet task 4.runtimeconfig.json
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\bin\Debug\net6.0\Dastan pink booklet task 4.dll
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\bin\Debug\net6.0\Dastan pink booklet task 4.pdb
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.csproj.AssemblyReference.cache
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.AssemblyInfoInputs.cache
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.AssemblyInfo.cs
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.csproj.CoreCompileInputs.cache
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.dll
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\refint\Dastan pink booklet task 4.dll
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.pdb
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\Dastan pink booklet task 4.genruntimeconfig.cache
+C:\Users\yamee\OneDrive\Documents\Dastan\Dastan pink booklet task 4\obj\Debug\net6.0\ref\Dastan pink booklet task 4.dll
